@@ -11,16 +11,12 @@ I am a data analyst from Moscow, Russia
 <br>
 <br>
 ## Expertise
-<!--
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
 
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%233372a2.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="clickhouse" src="https://img.shields.io/badge/clickhouse%20-%23ffcd00.svg?&style=for-the-badge&logo=clickhouse&logoColor=white" />
+<img align="left" alt="sql" src="https://img.shields.io/badge/sql-%23232F3E?logo=sql&logoColor=white&style=for-the-badge" />
+
+<!--
 I am a fullstack software engineer from bangladesh
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
